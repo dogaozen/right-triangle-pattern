@@ -33,4 +33,9 @@ This will print a right triangle star pattern to the console.
 ## Example Output
 
 For `n = 5` (5 rows), the program will print the following output:
+*
+**
+***
+****
+*****
 
